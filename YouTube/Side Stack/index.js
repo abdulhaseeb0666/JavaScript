@@ -1,4 +1,4 @@
-// SetTimeout side stack me chla jata he aur baad me execute hota he
+// SetTimeout side stack me chla jata he aur uss ki processing chalti rehti he lekin baad me execute hota he
 // Jab callback function call hota he to us waqt jo variables hote he wo us scope ke hote he jahan se wo call ho raha hota he
 // Lekin agar wo variable us scope me define nahi hota to wo global scope me dekhta he
 
